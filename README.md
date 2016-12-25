@@ -1,2 +1,2 @@
 # AngularTODOs
-TODO list using AngularJS
+AngularJS TODO list app
